@@ -1,4 +1,4 @@
-# JavaScript Zero to Hero with [Your Name]
+# JavaScript Zero to Hero
 
 Welcome to the "JavaScript Zero to Hero" repository! In this extensive guide, you will embark on a journey to master JavaScript, starting from the very basics and progressing to a level of intermediate. This project is designed with the "ezsnippet" teaching method to provide you with an interactive and engaging learning experience.
 
